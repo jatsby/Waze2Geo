@@ -1,0 +1,11 @@
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\bin\Debug\netcoreapp2.2\Waze2Geo.deps.json
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\bin\Debug\netcoreapp2.2\Waze2Geo.runtimeconfig.json
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\bin\Debug\netcoreapp2.2\Waze2Geo.runtimeconfig.dev.json
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\bin\Debug\netcoreapp2.2\Waze2Geo.dll
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\obj\Debug\netcoreapp2.2\Waze2Geo.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\obj\Debug\netcoreapp2.2\Waze2Geo.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\obj\Debug\netcoreapp2.2\Waze2Geo.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\obj\Debug\netcoreapp2.2\Waze2Geo.AssemblyInfo.cs
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\bin\Debug\netcoreapp2.2\Waze2Geo.pdb
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\obj\Debug\netcoreapp2.2\Waze2Geo.dll
+C:\Users\james\source\repos\Waze2Geo\Waze2Geo\obj\Debug\netcoreapp2.2\Waze2Geo.pdb
