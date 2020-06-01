@@ -23,4 +23,4 @@ It's very fast, less than a second usually. I haven't tested it with a polygon t
 I don't know which operating system(s) this is going to run on, and saving outside the relative root of the program often leads to permissions issues depending on the operating system, meaning the file can't be written.  
   
 **Can the GeoJSON file be saved somewhere else?**
-Yes! With enough effort it can be saved literally anywhere. Your desktop. *My* desktop. A NAS drive somewhere. AWS Glacier. Etc.
+Yes! With enough effort it can be saved literally anywhere. Your desktop. A NAS drive somewhere. AWS Glacier. Etc.
